@@ -113,6 +113,3 @@ This project is for educational purposes only. The AI doctor mimics a real docto
 - **Groq** for providing powerful multimodal models.
 - **Google Text-to-Speech (gTTS)** and **ElevenLabs** for providing text-to-speech functionality.
 - **Gradio** for creating an easy-to-use user interface.
-
-For any issues or suggestions, feel free to open an issue or submit a pull request. We appreciate your contributions!
-```
